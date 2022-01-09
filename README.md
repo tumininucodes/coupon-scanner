@@ -1,2 +1,2 @@
-# coupon_scanen
-opening scan data from physical qr scanners
+# coupon scanner
+An app that lets you open scan data from physical qr scanners
