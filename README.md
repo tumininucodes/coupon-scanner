@@ -2,7 +2,7 @@
 An app that lets you open scan data from physical QR scanners
 
 # Steps  
-![Uploading 1641757065254.png…]()
+![]()
 
 1. Connect your phone to the scanner  
 2. Click on the scan button  
