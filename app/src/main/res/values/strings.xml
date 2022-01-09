@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Coupon Scanen</string>
+    <string name="app_name">Coupon Scanner</string>
     <string name="click_on_the_button_below_n_to_scan">Click on the button below\n to scan</string>
+    <string name="scan_now">Scan now</string>
 </resources>
