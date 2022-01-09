@@ -2,7 +2,7 @@
 An app that lets you open scan data from physical QR scanners
 
 # Steps  
-![]()
+![App screenshot](https://github.com/tumininucodes/coupon_scanen/blob/main/screenshot.png)
 
 1. Connect your phone to the scanner  
 2. Click on the scan button  
